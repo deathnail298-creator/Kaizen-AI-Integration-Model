@@ -1,209 +1,210 @@
-SYLLABUS_FRAMEWORK.md
-Kaizen AI Integration Model™ — Instructor Syllabus Template
+SYLLABUS FRAMEWORK — KAIZEN AI INTEGRATION METHOD
 
-Version 1.0 — 2025
+Version 1.1 — Workbook-Aligned Instructor Syllabus Template
 
-This document provides a ready-to-use syllabus structure for anyone teaching the Kaizen AI Integration Model™.
-It is designed for colleges, corporate training departments, consulting firms, and independent instructors.
+This document provides a ready-to-use syllabus structure for teaching the **Kaizen AI Integration Method**. It is aligned with the Student Workbook, Instructor Training Manual v1.1, and Executive Manual v1.1.
 
-You MAY customize this template for your institution.
+The Student Workbook is the execution authority. This syllabus describes **how the course is organized**, not how the workflow itself is altered.
+
+This template may be used by colleges, corporate training departments, consulting firms, and independent instructors.
+
+You MAY customize this template for your institution, subject to the restrictions listed below.
+
+---
 
 📘 COURSE TITLE
 
-Kaizen AI Integration Model™: Practical Human-AI Workflows
+Kaizen AI Integration Method™: Disciplined Human–AI Workflows
+
+---
 
 📅 COURSE LENGTH
 
 Choose one:
 
-4-Week Intensive (corporate bootcamps)
+* 4-Week Intensive (corporate bootcamps)
+* 8-Week Standard (general education)
+* 12-Week Deep Dive (universities, certifications)
 
-8-Week Standard (general education)
+Module pacing scales linearly across these formats.
 
-12-Week Deep Dive (universities, certifications)
+---
 
 🎯 COURSE DESCRIPTION
 
-This course teaches students how to apply the Kaizen AI Integration Model™, a structured human-AI collaboration workflow designed for reliability, safety, and rapid iteration. Students will learn prompting, verification, adversarial testing, multi-model cross-checking, iterative refinement, and the “Holy Tenet”: questioning everything.
+This course teaches students how to apply the **Kaizen AI Integration Method**, a structured human-AI collaboration workflow designed to reduce drift, limit hallucination risk, and produce reliable, professional-grade work.
 
-Graduates will be able to integrate AI into real workflows with high confidence and low failure rates.
+Students learn disciplined execution, verification, and control — not prompt tricks or tool-specific shortcuts.
+
+Graduates will be able to integrate AI into real workflows with predictable quality and clear human accountability.
+
+---
 
 🎓 LEARNING OUTCOMES
 
 By the end of this course, students will be able to:
 
-Use the Kaizen workflow to solve real problems with AI models.
+* Execute the Kaizen AI Integration workflow end-to-end
+* Define scope clearly before AI generation begins
+* Break work into controlled, single-purpose chunks
+* Verify and lock AI output before proceeding
+* Enforce comprehension rather than assume correctness
+* Use external models as adversarial critics (optional)
+* Reconstruct broken or corrupted outputs correctly
+* Assemble final deliverables without rewriting
+* Document AI-assisted work transparently and audibly
 
-Apply chunking, locking, comprehension enforcement, and adversarial testing.
+Creativity is not graded. Process control is.
 
-Perform cross-model verification (using ChatGPT, Gemini, Qwen, Claude, etc.).
-
-Detect hallucination patterns and model drift.
-
-Interpret, debug, and reconstruct AI outputs reliably.
-
-Build repeatable, scalable AI workflows for business or personal use.
-
-Document AI-assisted work in a transparent, auditable manner.
+---
 
 🧩 COURSE MODULES
 
-Each module corresponds to one week (or one session in a bootcamp).
+Each module corresponds to one week (or one session in a bootcamp format).
 
-Module 1 — Introduction to the Kaizen Model
+### Module 1 — Introduction to the Kaizen AI Integration Method
 
-What the model is and why it exists
+* What the method is and why it exists
+* Common AI failure modes (drift, hallucination, overconfidence)
+* Human-in-the-loop responsibility
+* The Holy Tenet and why it is non-negotiable
 
-Human-in-the-loop safety
+---
 
-The “Holy Tenet” explained
+### Module 2 — Defining Scope and Chunking Work
 
-Overview of the Four Pillars
+* Why scope clarity matters
+* Breaking large tasks into controlled chunks
+* One-chunk-at-a-time discipline
 
-Module 2 — Chunking & Instruction Locking
+**Hands-on lab:** Students define scope and chunk a multi-section assignment.
 
-Chunk theory
+---
 
-Breaking complex tasks into micro-units
+### Module 3 — Verification and Instruction Locking
 
-Locking instructions to prevent drift
+* Treating AI output as draft material
+* Reviewing and validating output before saving
+* Locking completed chunks to preserve stability
 
-Hands-on lab: Students chunk and lock a multi-step assignment
+**Hands-on lab:** Students generate, review, and explicitly lock individual chunks.
 
-Module 3 — Comprehension Enforcement
+---
 
-Forcing the model to “prove” understanding
+### Module 4 — Comprehension Enforcement
 
-Synthetic comprehension testing
+* What real understanding looks like
+* Forcing the AI to prove comprehension
+* Summaries, rewrites, checklists, and failure-point prediction
 
-Summaries, rewrites, cross-reflection
+**Hands-on lab:** Students enforce comprehension on intentionally flawed prompts.
 
-Hands-on lab: Students run comprehension tests until stable
+---
 
-Module 4 — Multi-Model Adversarial Testing
+### Module 5 — Adversarial Testing (Optional)
 
-Using a second model as a “hostile reviewer”
+* Purpose of external critique
+* Using free Grok, free Gemini, or free Qwen as adversarial reviewers
+* Interpreting disagreement as signal
 
-Gemini, Grok, Claude, Qwen as adversaries
+**Hands-on lab:** Students expose completed work to adversarial critique.
 
-What disagreement means
+---
 
-Hands-on lab: Students break each other's outputs
+### Module 6 — Reconstruction and Error Handling
 
-Module 5 — Reconstruction & Verification
+* Common AI error patterns
+* Rebuilding from the last good chunk
+* Avoiding global rewrites
 
-Reverse prompting
+**Hands-on lab:** Students reconstruct a deliberately corrupted output.
 
-Detecting hallucinations
+---
 
-Reconstruction drills
+### Module 7 — Applied Problem Solving
 
-Hands-on lab: Rebuild a corrupted output into a correct one
+Students select a real-world application track, such as:
 
-Module 6 — Applied Problem Solving
+* Writing and documentation
+* Policy or procedural work
+* Technical or analytical briefs
+* Educational materials
+* Creative work (structure-focused)
+* Legal / compliance (non-advisory)
+* Medical or scientific writing (non-diagnostic)
 
-Pick an application track:
+Students execute the full Kaizen workflow on a bounded case.
 
-Writing
+---
 
-Policy
+### Module 8 — Capstone Project and Presentation
 
-Coding
+* Students design a Kaizen workflow for a real use case
+* Peer adversarial testing (optional)
+* Instructor evaluation using the provided rubric
 
-Documentation
+Final deliverables are assembled without rewriting.
 
-Creative work
-
-Legal/Compliance
-
-Education
-
-Medical (non-diagnostic)
-
-Students complete a real-world case using the Kaizen model.
-
-Module 7 — Capstone Development
-
-Students design their own Kaizen workflow for a real use-case
-
-Instructors provide iterative review
-
-Peer adversarial testing included
-
-Module 8 — Capstone Presentation
-
-Students present their final Kaizen workflow
-
-Peer critique
-
-Instructor scoring using provided rubric
-
-Certification decision (if applicable)
+---
 
 📝 GRADING BREAKDOWN (Editable)
 
-Participation: 15%
+* Participation and discipline: 15%
+* Weekly labs and exercises: 25%
+* Mid-course verification or adversarial review: 20%
+* Capstone project: 40%
 
-Weekly Labs: 25%
+Grades reward adherence to process, not novelty.
 
-Midterm Adversarial Review: 20%
-
-Capstone Project: 40%
+---
 
 📑 MATERIALS REQUIRED
 
-Access to at least two AI models (ChatGPT + Gemini/Qwen/etc.)
+* Access to at least one primary AI model
+* Optional access to one or more external models (Grok, Gemini, Qwen)
+* Computer with internet access
+* Student Workbook (required)
+* Instructor slide deck (provided separately)
 
-Computer with internet access
-
-Course workbook (included)
-
-Instructor slides (provided separately)
+---
 
 📜 INSTRUCTOR NOTES
 
-Always enforce the Holy Tenet.
+* Always enforce the Holy Tenet
+* Do not allow students to skip steps
+* Stop and correct discipline violations immediately
+* Use failure as a diagnostic tool
+* Reinforce that this is a workflow, not a trick
 
-Encourage students to challenge the AI and each other.
-
-Use failure as a teaching tool — the model improves through iteration.
-
-Remind students: this is not a magic trick; it's a process discipline.
+---
 
 📌 CUSTOMIZATION OPTIONS
 
-You may:
+You MAY:
 
-Change lesson order
-
-Add domain-specific case studies
-
-Add local compliance rules
-
-Adjust grading
-
-Expand modules
+* Adjust pacing or calendar length
+* Add domain-specific case studies
+* Incorporate local compliance or institutional requirements
+* Adjust grading weights
 
 You may NOT:
 
-Remove the Holy Tenet
+* Remove or weaken the Holy Tenet
+* Alter the core workflow steps
+* Present the methodology as tool-specific
+* Claim official Kaizen certification without a commercial license
 
-Rebrand the course without trademark permission
-
-Claim official Kaizen certification without a commercial license
+---
 
 📥 CONTACT FOR COMMERCIAL USAGE
 
-📧 nathan.rudloff.business@gmail.com
+📧 [nathan.rudloff.business@gmail.com](mailto:nathan.rudloff.business@gmail.com)
 
-For:
+Contact for:
 
-Official certification programs
+* Official certification programs
+* Paid workshops or bootcamps
+* For-profit corporate training
+* Co-branded or licensed materials
 
-Paid workshops
-
-For-profit corporate training
-
-Co-branded materials
-
-Licensing and royalty agreements
+End of Syllabus Framework v1.1
