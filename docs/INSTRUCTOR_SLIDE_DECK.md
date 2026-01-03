@@ -10,10 +10,14 @@ You may convert each bullet into a slide.
 Slide 1 — Title Slide
 
 Kaizen AI Integration Model™
-A Practical, Reliable Human–AI Workflow for Real Work
+A Disciplined Human–AI Workflow for Real Work
 Instructor Name · Institution · Date
 
-Slide 2 — Why Kaizen Exists
+2. Slide 2 — “Why Kaizen Exists”
+
+This slide is conceptually correct but reads like internal notes.
+
+Current bullets:
 
 AI is powerful but unreliable when used casually
 
@@ -23,23 +27,27 @@ Kaizen introduces discipline
 
 This is a workflow, not a trick
 
+Fix (tighten, same meaning):
+
+AI is powerful but unreliable without discipline
+
+Most failures come from human instruction, not the model
+
+Kaizen enforces structure and verification
+
+This is a workflow, not a prompt trick
+
 Slide 3 — Course Outcomes
 
-Students will learn:
+Students will learn to:
+Chunk work correctly
+Lock instructions
+Enforce comprehension
+Perform adversarial testing
+Verify across models
+Reconstruct broken outputs
+Design a full Kaizen workflow
 
-Chunking
-
-Locking
-
-Comprehension enforcement
-
-Adversarial testing
-
-Cross-model verification
-
-Reconstruction & debugging
-
-Capstone workflow design
 
 📘 SECTION 2 — THE KAIZEN FRAMEWORK
 Slide 4 — The Four Pillars
@@ -59,6 +67,8 @@ Make it prove it understands you.”
 
 Central rule
 
+This rule applies at every step of the workflow
+
 Cannot be removed or bypassed
 
 Guarantees reliability
@@ -73,7 +83,7 @@ Forces structured reasoning
 
 Converts any LLM into a disciplined assistant
 
-Works even with weaker models (Gemini, Qwen, Claude, etc.)
+Works even with weaker or free models (Gemini, Qwen, Claude, etc.)
 
 📘 SECTION 3 — CHUNKING
 Slide 7 — Why Chunking Is Mandatory
@@ -96,6 +106,8 @@ Hard stop: don’t move to next chunk early
 
 Slide 9 — Hands-On Drill 1
 
+Follow the workbook instructions exactly.
+
 Exercise: Rewrite a 2-page assignment into 8–12 chunks following rules.
 
 📘 SECTION 4 — INSTRUCTION LOCKING
@@ -116,6 +128,8 @@ Slide 11 — Locking Template
 “Do not begin until I say ‘Begin’.”
 
 Slide 12 — Hands-On Drill 2
+
+Follow the workbook instructions exactly.
 
 Instructor gives unstable instructions → students stabilize them with locking.
 
@@ -142,6 +156,8 @@ Predict misunderstandings
 
 Slide 15 — Hands-On Drill 3
 
+Follow the workbook instructions exactly.
+
 Students force the AI to prove comprehension of a flawed prompt.
 
 📘 SECTION 6 — ADVERSARIAL CROSS-MODEL TESTING
@@ -153,17 +169,21 @@ Differences reveal hallucinations or logical gaps
 
 No single model can be authority
 
+Disagreement is a signal, not a failure
+
 Slide 17 — Recommended Adversary Models
 
-Gemini
+Free Gemini
 
-Qwen
+Free Qwen
 
-Claude
+Claude (if available)
 
-Even Grok (if behaving)
+Grok (if available)
 
 Slide 18 — Hands-On Drill 4
+
+Follow the workbook instructions exactly.
 
 Students compare ChatGPT output vs Gemini/Qwen disagreements.
 
@@ -185,6 +205,8 @@ Misapplied reasoning
 Silent deviation
 
 Slide 21 — Hands-On Drill 5
+
+Follow the workbook instructions exactly.
 
 Instructor deliberately corrupts an output; students reconstruct correctly.
 
@@ -255,9 +277,9 @@ Self-correcting
 
 Easy to adopt
 
-Impossible to replicate without the Holy Tenet + sequence
+Breaks down if the Holy Tenet or sequence is ignored
 
-Slide 28 — Contact for Licensing / Commercial Use
+Slide 28 — Contact for Licensing or Commercial Use
 
 📧 nathan.rudloff.business@gmail.com
 
